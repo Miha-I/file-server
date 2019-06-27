@@ -1,0 +1,1 @@
+Server Explorer root folder data/root
